@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Neha Singh
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
